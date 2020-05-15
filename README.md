@@ -9,4 +9,4 @@ A one-stop shop for improving your privacy and security online.
 
 | Name                               |  Functionalities                                    | Pricing           | Link |
 | -----------------------------------|:---------------------------------------------------:| -----------------:|-----:|
-| DuckDuckGo Privacy Essentials      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free              | (🔗)[https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/]    |
+| DuckDuckGo Privacy Essentials      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free              | [🔗](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)   |
