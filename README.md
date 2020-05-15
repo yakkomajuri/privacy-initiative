@@ -43,10 +43,10 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | Name                               |  Main Selling Points                                | Pricing           | Link |
 | :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
 | Notable | Flexible, Markdown-based local note-taking | Free |[🔗] (https://meet.jit.si/)   |
-| Libre Office | Free & Open-Source Office Suite (Spreadsheets, Text Editor, etc.) | Free |[🔗] (https://www.libreoffice.org/)|
+| Libre Office | Free & Open-Source Office Suite (Spreadsheets, Text Editor, etc.) | Free |[🔗](https://www.libreoffice.org/)|
 
 ### Video Conferencing
 
 | Name                               |  Main Selling Points                                | Pricing           | Link |
 | :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
-| Jitsi Meet | Private, No-Installation, Intuitive Video Conferencing | Free |[🔗] (https://meet.jit.si/)   |
+| Jitsi Meet | Private, No-Installation, Intuitive Video Conferencing | Free |[🔗](https://meet.jit.si/)   |
