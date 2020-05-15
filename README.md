@@ -9,7 +9,13 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing           | Link |
 | :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
-| Placeholder | - | - | - |
+| Firefox | Well-Established, Privacy-Focused Browser | Free | [🔗](https://www.mozilla.org/en-US/firefox/new/) |
+| Brave | Privacy-Focused, Fast, Open-Source Browser | Free | [🔗](https://brave.com/) |
+| Opera | Privacy-Focused Browser with Free VPN and Ad-Blocker | Free | [🔗](https://www.opera.com/) |
+| DuckDuckGo | New, Mobile-only, Privacy-Focused Browser with built-in website privacy rating | Free |  [🔗](https://duckduckgo.com/app) |
+| Tor | The Holy Grail of Private Browsers - Default Onion Routing | Free | [🔗](https://www.torproject.org/) |
+
+
 
 
 ### Browser Extensions
