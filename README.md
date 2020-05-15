@@ -22,11 +22,9 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 ### VPNs
 
-
 | Name                               |  Main Selling Points                                | Pricing           | Link |
 | :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
-| DuckDuckGo Privacy Essentials      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free | [🔗](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)   |
-| Terms Of Service; Didn't Read      | Summary and grade for Terms of Service of available websites  | Free | [🔗](https://tosdr.org/downloads.html)   |
+| Placeholder | - | - | - |
 
 ### Search Engines
 
