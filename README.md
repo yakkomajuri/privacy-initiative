@@ -7,8 +7,8 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 ### Browsers
 
 
-| Name                               |  Main Selling Points                                | Pricing        | Recommended For |
-| :---------------------------------:|:--------------------------------------------------: | :-------------:|:-------------:|
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Well-Established, Privacy-Focused Browser | Free | Most Users |
 | [Brave](https://brave.com/) | Privacy-Focused, Fast, Open-Source Browser | Free | Most Users |
 | [Opera](https://www.opera.com/) | Privacy-Focused Browser with Free VPN and Ad-Blocker | Free | Most Users |
@@ -21,38 +21,38 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 ### Browser Extensions
 
 
-| Name                               |  Functionalities                                    | Pricing           | Link |
-| :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | DuckDuckGo Privacy Essentials      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free | [🔗](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)   |
 | Terms Of Service; Didn't Read      | Summary and grade for Terms of Service of available websites  | Free | [🔗](https://tosdr.org/downloads.html)   |
 
 ### VPNs
 
-| Name                               |  Main Selling Points                                | Pricing           | Link |
-| :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | Placeholder | - | - | - |
 
 ### Search Engines
 
-| Name                               |  Main Selling Points                                | Pricing           | Link |
-| :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | Placeholder | - | - | - |
 
 ### Password Managers
 
-| Name                               |  Main Selling Points                                | Pricing           | Link |
-| :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | Placeholder | - | - | - |
 
 ### Productivity
 
-| Name                               |  Main Selling Points                                | Pricing           | Link |
-| :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
-| Notable | Flexible, Markdown-based local note-taking | Free |[🔗](https://meet.jit.si/)   |
-| Libre Office | Free & Open-Source Office Suite (Spreadsheets, Text Editor, etc.) | Free |[🔗](https://www.libreoffice.org/)|
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
+| [Notable](https://notable.md/) | Flexible, Markdown-based local note-taking | Free | Markdown Users |
+| [Libre Office](https://www.libreoffice.org/) | Free & Open-Source Office Suite (Spreadsheets, Text Editor, etc.) | Free | Microsoft & Google-Averse Users |
 
 ### Video Conferencing
 
-| Name                               |  Main Selling Points                                | Pricing           | Link |
-| :---------------------------------:|:--------------------------------------------------: | :----------------:|:----:|
-| Jitsi Meet | Private, No-Installation, Intuitive Video Conferencing | Free |[🔗](https://meet.jit.si/)   |
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
+| [Jitsi Meet](https://meet.jit.si/) | Private, No-Installation, Intuitive Video Conferencing | Free | Most Users |
