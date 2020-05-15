@@ -9,10 +9,10 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing        | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :-------------:|:-------------:|
-| [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Well-Established, Privacy-Focused Browser | Free | All Users |
-| [Brave](https://brave.com/) | Privacy-Focused, Fast, Open-Source Browser | Free |  |
-| [Opera](https://www.opera.com/) | Privacy-Focused Browser with Free VPN and Ad-Blocker | Free |  |
-| [DuckDuckGo](https://duckduckgo.com/app) | New, Mobile-only, Privacy-Focused Browser with built-in website privacy rating | Free | Experimental Users |
+| [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Well-Established, Privacy-Focused Browser | Free | Most Users |
+| [Brave](https://brave.com/) | Privacy-Focused, Fast, Open-Source Browser | Free | Most Users |
+| [Opera](https://www.opera.com/) | Privacy-Focused Browser with Free VPN and Ad-Blocker | Free | Most Users |
+| [DuckDuckGo](https://duckduckgo.com/app) | New, Mobile-only, Privacy-Focused Browser with built-in website privacy rating | Free | Most Users & Crypto Enthusiasts |
 | [Tor](https://www.torproject.org/) | The Holy Grail of Private Browsers - Default Onion Routing | Free | Experienced Users |
 
 
