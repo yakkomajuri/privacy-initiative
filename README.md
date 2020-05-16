@@ -42,13 +42,17 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| Placeholder | - | - | - |
+| [MacOS Keychain](https://support.apple.com/en-gb/guide/keychain-access/kyca1083/mac) | Built-in encrypted notes & password manager for MacOS | Free (For Macbook users) | MacOS Users |
+| [Dashlane](https://support.apple.com/en-gb/guide/keychain-access/kyca1083/mac) | Well-established, intuitive password manager | Free with Premium Options | Most Users |
+| [1Password](https://1password.com/) | Feature-rich password manager and authenticator app | 3-5$ per month | Users able to spare some extra cash |
+| [Bitwarden](https://bitwarden.com/) | Open-source password manager with storage solutions | Free with Premium Options | Most Users |
+| [KeePassXC](https://keepassxc.org/download/) | Self-hosted, open-source password manager | Free | DIY-type Users |
 
 ### Productivity
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| [Notable](https://notable.md/) | Flexible, Markdown-based local note-taking | Free | Markdown Users |
+| [Notable](https://notable.md/) | Flexible, Markdown-based local note-taking | Free | Users familiar with Markdown |
 | [Libre Office](https://www.libreoffice.org/) | Free & Open-Source Office Suite (Spreadsheets, Text Editor, etc.) | Free | Microsoft & Google-Averse Users |
 
 ### Video Conferencing
