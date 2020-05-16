@@ -77,7 +77,7 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| [Jitsi Meet](https://meet.jit.si/) | Private, No-Installation, Intuitive Video Conferencing | Free | Most Users |
+| [Jitsi Meet](https://meet.jit.si/) | Private, Feature-Rich, No-Installation, Intuitive Video Conferencing | Free | Most Users |
 
 ### Cloud Storage
 
