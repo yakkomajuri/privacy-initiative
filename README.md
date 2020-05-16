@@ -16,8 +16,6 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | [Tor](https://www.torproject.org/) | The Holy Grail of Private Browsers - Default Onion Routing | Free | Experienced Users |
 
 
-
-
 ### Browser Extensions
 
 
@@ -25,6 +23,14 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free | Everyone ⭐ |
 | [Terms Of Service; Didn't Read](https://tosdr.org/downloads.html)       | Summary and grade for Terms of Service of available websites  | Free | Everyone ⭐ |
+
+
+### Messaging
+
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
+| [Signal](https://www.signal.org/) | Open-Source, End-to-End Encrypted Messenger (Edward Snowden's choice) | Free | Most Users |
+| [Telegram](https://telegram.org/) | Security-focused, Well-established, Bot-friendly Messenger | Free | Most Users |
 
 ### VPNs
 
