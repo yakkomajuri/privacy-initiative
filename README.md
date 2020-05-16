@@ -152,5 +152,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [Tails OS](https://tails.boum.org/) | Top choice for anonymous & private operating systems | Free | Experienced Users |
 | [Lineage OS](https://lineageos.org/) | Open-source Android-based mobile OS for Apple & Google-averse users | Free | Experienced Users |
 | [Pi-Hole](https://pi-hole.net/) | Open-source network-wide ad blocking | Free | Experienced Users |
+| [Grin](https://www.getmonero.org/), [Monero](https://www.getmonero.org/), [ZCash](https://z.cash/) | Privacy Coins for anonymous spending | N/A | Experienced Users |
+
 
 
