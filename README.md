@@ -36,6 +36,10 @@ Here are a few things you can do right now to check how bad (or good) your priva
   
   * **Try out a privacy-focused search engine:** Its results will probably not be as good as Google's, but it will likely get the job done most of the time. You can always go to Google if you can't find a result.
 
+  * **Cover your webcam:** Need to use your webcam for an online meeting? Fine. Otherwise, keep it covered with a sticker or a designated webcam cover thingy.
+
+  * **Do not send private pictures over the internet:** Better if you don't take them at all. But hey, if you gotta take 'em, and you gotta send 'em, at least omit your face.
+
   * **Stay as far away from Big Tech as possible:** If you truly care about your privacy, you should avoid Google, Facebook, and gang as much as possible. They have horrible track records when it comes to your data privacy. This is quite hard, I know. After all, I'm writing this on a Microsoft service. 
   
   * **Prioritize Open Source Software:** Open Source means that the code for the software is open and available for all to see and test. This means it is **more likely** (not certain) to be well-tested for vulnerabilities and privacy issues.
