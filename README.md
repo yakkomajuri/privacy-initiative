@@ -126,8 +126,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | [Tresorit](https://tresorit.com/) | Well-established, intuitive, end-to-end encrypted cloud storage | Limited Free Option (10-30$ p/mo) | Most Users (In need of Cloud Storage) |
-| [Nextcloud](https://nextcloud.com/) | Self-hosted, Open-Source cloud storage solution | Hosting costs up to you | 
-Experienced Users |
+| [Nextcloud](https://nextcloud.com/) | Self-hosted, Open-Source cloud storage solution | Hosting costs up to you | Experienced Users |
 
 ### Miscellaneous Tools
 
