@@ -126,7 +126,15 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | [Tresorit](https://tresorit.com/) | Well-established, intuitive, end-to-end encrypted cloud storage | Limited Free Option (10-30$ p/mo) | Most Users (In need of Cloud Storage) |
-| [Nextcloud](https://nextcloud.com/) | Self-hosted, Open-Source cloud storage solution | Hosting costs up to you | Experienced Users |
+| [Nextcloud](https://nextcloud.com/) | Self-hosted, Open-Source cloud storage solution | Hosting costs up to you | 
+Experienced Users |
+
+### Miscellaneous Tools
+
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
+| [Have I Been Pwned](https://haveibeenpwned.com/) | Website and API to check if your data and passwords have been leaked | Free | Everyone ⭐ |
+| [Mine](https://saymine.com/) | A website that scours the web for all services that have your data and allows you to request its deletion with one click | Free | Everyone ⭐ |
 
 ### ⚠️ Extreme (For Experienced Users Only) ⚠️
 
