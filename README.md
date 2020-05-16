@@ -12,6 +12,23 @@ Here are a few things you can do right now to check how bad (or good) your priva
 
  2. Sign Up to [Mine](https://saymine.com/) to see who owns your data and request its deletion with one click.
  
+## Simple Tips for Enhanced Privacy
+
+  * **Use a privacy-focused browser:** Most browsers these days are feature-rich and provide a good user experience. Why not pick one that values your privacy then?
+
+  * **Use strong passwords:** Really. Use a mix of numbers, upper and lowercase letters, symbols, and make sure your passwords have a good length. This goes a long way. Easy passwords **will** be broken at some point.
+  
+  * **Do not re-use passwords:** Try as hard as you can not to re-use passwords. This is a bad practice that makes multiple accounts vulnerable if only one password leaks. 
+
+  * **Use a password manager:** A summary of the points above. Keeping track of long, one-use passwords is hard. Get a password manager to do it for you.
+  
+  * **Never ever use websites without HTTPS:** HTTPS, usually represented by a green lock next to the URL on your browser, ensures your connection to websites is securely encrypted. This means you can send data (mostly) without any risk of it ending up in the wrong hands. Websites without HTTPS are dangerous and likely to leak your data.
+  
+  * **Try out a privacy-focused search engine:** Its results will probably not be as good as Google's, but it will likely get the job done most of the time. You can always go to Google if you can't find a result.
+
+  * **Stay as far away from Big Tech as possible:** If you truly care about your privacy, you should avoid Google, Facebook, and gang as much as possible. They have horrible track records when it comes to your data privacy. This is quite hard, I know. After all, I'm writing this on a Microsoft service. 
+  
+  * **Start slow:** Trying to switch your whole lifestyle to enhance privacy doesn't happen overnight. Small steps are the way to go.
 
 ## Recommended Utilities
 
@@ -107,23 +124,5 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [Tails OS](https://tails.boum.org/) | Top choice for anonymous & private operating systems | Free | Experienced Users |
 | [Lineage OS](https://lineageos.org/) | Open-source Android-based mobile OS for Apple & Google-averse users | Free | Experienced Users |
 | [Pi-Hole](https://pi-hole.net/) | Open-source network-wide ad blocking | Free | Experienced Users |
-
-## Simple Tips for Enhanced Privacy
-
-  * **Use a privacy-focused browser:** Most browsers these days are feature-rich and provide a good user experience. Why not pick one that values your privacy then?
-
-  * **Use strong passwords:** Really. Use a mix of numbers, upper and lowercase letters, symbols, and make sure your passwords have a good length. This goes a long way. Easy passwords **will** be broken at some point.
-  
-  * **Do not re-use passwords:** Try as hard as you can not to re-use passwords. This is a bad practice that makes multiple accounts vulnerable if only one password leaks. 
-
-  * **Use a password manager:** A summary of the points above. Keeping track of long, one-use passwords is hard. Get a password manager to do it for you.
-  
-  * **Never ever use websites without HTTPS:** HTTPS, usually represented by a green lock next to the URL on your browser, ensures your connection to websites is securely encrypted. This means you can send data (mostly) without any risk of it ending up in the wrong hands. Websites without HTTPS are dangerous and likely to leak your data.
-  
-  * **Try out a privacy-focused search engine:** Its results will probably not be as good as Google's, but it will likely get the job done most of the time. You can always go to Google if you can't find a result.
-
-  * **Stay as far away from Big Tech as possible:** If you truly care about your privacy, you should avoid Google, Facebook, and gang as much as possible. They have horrible track records when it comes to your data privacy. This is quite hard, I know. After all, I'm writing this on a Microsoft service. 
-  
-  * **Start slow:** Trying to switch your whole lifestyle to enhance privacy doesn't happen overnight. Small steps are the way to go.
 
 
