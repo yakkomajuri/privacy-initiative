@@ -14,6 +14,7 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | [Opera](https://www.opera.com/) | Privacy-Focused Browser with Free VPN and Ad-Blocker | Free | Most Users |
 | [DuckDuckGo](https://duckduckgo.com/app) | New, Mobile-only, Privacy-Focused Browser with built-in website privacy rating | Free | Experential Users |
 | [Tor](https://www.torproject.org/) | The Holy Grail of Private Browsers - Default Onion Routing | Free | Experienced Users |
+| [Waterfox](https://www.waterfox.net/) | Fully-customizable private web browser | Free | Somewhat experienced users |
 
 
 ### Browser Extensions
@@ -41,7 +42,6 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | [ExpressVPN](https://www.expressvpn.com/) | Robust, well-established VPN | 7-12$ per month | Users able to spare some extra cash |
 | [ProtonVPN](https://protonvpn.com/) | New VPN with onion routing and a no-log policy | Free with Premium Options (5-10$ p/mo) | Everyone (Free Option) |
 
-
 ### Search Engines
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
@@ -63,7 +63,8 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| [ProtonMail](https://protonmail.com/) | Go-to option for privacy email services | Free with Premium Options | Most Users |
+| [ProtonMail](https://protonmail.com/) | Go-to option for privacy email services (Switzerland-based) | Free with Premium Options | Most Users |
+| [Tutanota](https://tutanota.com/) | Private email service with 1GB of free storage (Germany-based) | Free with Premium Options | Most Users |
 
 ### Productivity
 
@@ -78,6 +79,12 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | [Jitsi Meet](https://meet.jit.si/) | Private, No-Installation, Intuitive Video Conferencing | Free | Most Users |
 
+### Cloud Storage
+
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
+| [Tresorit](https://tresorit.com/) | Well-established, intuitive, end-to-end encrypted cloud storage | Limited Free Option (10-30$ p/mo) | Most Users (In need of Cloud Storage) |
+| [Nextcloud](https://nextcloud.com/) | Self-hosted, Open-Source cloud storage solution | Hosting costs up to you | Experienced Users |
 
 ### ⚠️ Extreme (For Experienced Users Only) ⚠️
 
@@ -87,5 +94,7 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | [Tails OS](https://tails.boum.org/) | Top choice for anonymous & private operating systems | Free | Experienced Users |
 | [Lineage OS](https://lineageos.org/) | Open-source Android-based mobile OS for Apple & Google-averse users | Free | Experienced Users |
 | [Pi-Hole](https://pi-hole.net/) | Open-source network-wide ad blocking | Free | Experienced Users |
+
+
 
 
