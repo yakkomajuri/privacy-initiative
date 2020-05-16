@@ -12,7 +12,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 
  2. Sign Up to [Mine](https://saymine.com/) to see who owns your data and request its deletion with one click.
  
-## Simple Tips for Enhanced Privacy
+## [Simple Tips for Enhanced Privacy](#tips)
 
   * **Use a privacy-focused browser:** Most browsers these days are feature-rich and provide a good user experience. Why not pick one that values your privacy then?
 
