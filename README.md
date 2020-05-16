@@ -9,6 +9,18 @@ Hopefully becoming a webpage soon.
  1. [First Things First](#first-things-first)
  2. [Simple Tips for Enhanced Privacy](#simple-tips-for-enhanced-privacy)
  3. [Recommended Utilities](#recommended-utilities)
+   a) [Browsers](#browsers)
+   b) [Browser Extensions](#browser-extensions)
+   c) [Messaging](#messaging)
+   d) [VPNs](#vpns)
+   e) [Search Engines](#search-engines)
+   f) [Password Managers](#password-managers)
+   g) [Email](#email)
+   h) [Productivity](#productivity)
+   i) [Video Conferencing](#video-conferencing)
+   j) [Cloud Storage](#cloud-storage)
+   k) [Miscellaneous Tools](#miscellaneous-tools)
+   k) [Extreme](#miscellaneous-tools)
 
 
 ## First Things First
