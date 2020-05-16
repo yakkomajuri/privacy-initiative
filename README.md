@@ -36,7 +36,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free | Everyone ⭐ |
 | [Terms Of Service; Didn't Read](https://tosdr.org/downloads.html)       | Summary and grade for Terms of Service of available websites  | Free | Everyone ⭐ |
 | [AdBlock Plus](https://adblockplus.org/) | Most well-known ad-blocker in the market | Donation-based | Most Users |
-
+| [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) | Upgrades your connection to websites to an encrypted one if possible | Free | Everyone ⭐ |
 
 
 ### Messaging
@@ -117,6 +117,8 @@ Here are a few things you can do right now to check how bad (or good) your priva
   * **Do not re-use passwords:** Try as hard as you can not to re-use passwords. This is a bad practice that makes multiple accounts vulnerable if only one password leaks. 
 
   * **Use a password manager:** A summary of the points above. Keeping track of long, one-use passwords is hard. Get a password manager to do it for you.
+  
+  * **Never ever use websites without HTTPS:** HTTPS, usually represented by a green lock next to the URL on your browser, ensures your connection to websites is securely encrypted. This means you can send data (mostly) without any risk of it ending up in the wrong hands. Websites without HTTPS are dangerous and likely to leak your data.
   
   * **Try out a privacy-focused search engine:** Its results will probably not be as good as Google's, but it will likely get the job done most of the time. You can always go to Google if you can't find a result.
 
