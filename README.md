@@ -8,7 +8,7 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 Here are a few things you can do right now to check how bad (or good) your privacy practices are online:
 
  1. Access https://haveibeenpwned.com/ to check what data of yours has been leaked in the past
-   * For developers, you can also use their [API](https://haveibeenpwned.com/API/v3) to check if any of your passwords have been leaked (and cracked). It's a genius system built on a k-anonymity model that preserves your privacy while allowing you to check for password leaks. See [this video](https://www.youtube.com/watch?v=hhUb5iknVJs) and [this repo](https://github.com/mikepound/pwned-search) for more info.
+     * *For developers, you can also use their [API](https://haveibeenpwned.com/API/v3) to check if any of your passwords have been leaked (and cracked). It's a genius system built on a k-anonymity model that preserves your privacy while allowing you to check for password leaks. See [this video](https://www.youtube.com/watch?v=hhUb5iknVJs) and [this repo](https://github.com/mikepound/pwned-search) for more info.*
 
  2. Sign Up to [Mine](https://saymine.com/) to see who owns your data and request its deletion with one click.
  
