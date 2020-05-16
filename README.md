@@ -23,20 +23,24 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free | **Everyone** |
-| [Terms Of Service; Didn't Read](https://tosdr.org/downloads.html)       | Summary and grade for Terms of Service of available websites  | Free | **Everyone** |
+| [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free | Everyone ⭐ |
+| [Terms Of Service; Didn't Read](https://tosdr.org/downloads.html)       | Summary and grade for Terms of Service of available websites  | Free | Everyone ⭐ |
 
 ### VPNs
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| Placeholder | - | - | - |
+| [NordVPN](https://nordvpn.com/) | Feature-rich, well-established VPN | 4-12$ per month | Most Users |
+| [TunnelBear](https://www.tunnelbear.com/) | Easy-to-use, well-known VPN | 500MB free per month (Premium for 3-6$ p/mo) | Most Users |
+| [ExpressVPN](https://www.expressvpn.com/) | Robust, well-established VPN | 7-12$ per month | Users able to spare some extra cash |
+| [ProtonVPN](https://protonvpn.com/) | New VPN with onion routing and a no-log policy | Free with Premium Options (5-10$ p/mo) | Everyone (Free Option) |
+
 
 ### Search Engines
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| [DuckDuckGo](https://duckduckgo.com/) | Top privacy-focused search engine in the market | Free | **Everyone** |
+| [DuckDuckGo](https://duckduckgo.com/) | Top privacy-focused search engine in the market | Free | Everyone ⭐ |
 
 ### Password Managers
 
