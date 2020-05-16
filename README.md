@@ -86,4 +86,6 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | [Tor](https://www.torproject.org/) | The Holy Grail of Private Browsers - Default Onion Routing | Free | Experienced Users |
 | [Tails OS](https://tails.boum.org/) | Top choice for anonymous & private operating systems | Free | Experienced Users |
 | [Lineage OS](https://lineageos.org/) | Open-source Android-based mobile OS for Apple & Google-averse users | Free | Experienced Users |
+| [Pi-Hole](https://pi-hole.net/) | Open-source network-wide ad blocking | Free | Experienced Users |
+
 
