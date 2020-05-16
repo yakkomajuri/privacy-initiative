@@ -23,7 +23,7 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free | Everyone |
+| [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg/)      | Ad Blocker, Website Privacy Rating, HTTPS Upgrades  | Free | **Everyone** |
 | [Terms Of Service; Didn't Read](https://tosdr.org/downloads.html)       | Summary and grade for Terms of Service of available websites  | Free | **Everyone** |
 
 ### VPNs
@@ -36,7 +36,7 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| Placeholder | - | - | - |
+| [DuckDuckGo](https://duckduckgo.com/) | Top privacy-focused search engine in the market | Free | **Everyone** |
 
 ### Password Managers
 
