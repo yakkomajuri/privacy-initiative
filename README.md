@@ -29,6 +29,8 @@ Here are a few things you can do right now to check how bad (or good) your priva
   * **Do not re-use passwords:** Try as hard as you can not to re-use passwords. This is a bad practice that makes multiple accounts vulnerable if only one password leaks. 
 
   * **Use a password manager:** A summary of the points above. Keeping track of long, one-use passwords is hard. Get a password manager to do it for you.
+
+  * **Use multi-factor / two-factor authentication:** Using 2FA or multi-factor authentication makes it significantly harder for anyone to break into your accounts.
   
   * **Never ever use websites without HTTPS:** HTTPS, usually represented by a green lock next to the URL on your browser, ensures your connection to websites is securely encrypted. This means you can send data (mostly) without any risk of it ending up in the wrong hands. Websites without HTTPS are dangerous and likely to leak your data.
   
@@ -36,7 +38,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 
   * **Stay as far away from Big Tech as possible:** If you truly care about your privacy, you should avoid Google, Facebook, and gang as much as possible. They have horrible track records when it comes to your data privacy. This is quite hard, I know. After all, I'm writing this on a Microsoft service. 
   
-  * **Prioritize Open Source Software:** Open Source means that the code for the software is open and available for all to see and test. This means it is more likely to be well-tested for vulnerabilities and privacy issues.
+  * **Prioritize Open Source Software:** Open Source means that the code for the software is open and available for all to see and test. This means it is **more likely** (not certain) to be well-tested for vulnerabilities and privacy issues.
   
   * **Avoid doing anything important on public networks:** Public networks make you subject to attacks. Avoid accessing your bank account on them, for example.
   
@@ -66,6 +68,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [Terms Of Service; Didn't Read](https://tosdr.org/downloads.html)       | Summary and grade for Terms of Service of available websites  | Free | Everyone ⭐ |
 | [AdBlock Plus](https://adblockplus.org/) | Most well-known ad-blocker in the market | Donation-based | Most Users |
 | [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) | Upgrades your connection to websites to an encrypted one if possible | Free | Everyone ⭐ |
+| [Clean URLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) | Removes unnecessary data from URLs that can be used to track you, without harming the user experience | Free | Everyone ⭐ |
 
 
 ### Messaging
@@ -135,7 +138,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [Have I Been Pwned](https://haveibeenpwned.com/) | Website and API to check if your data and passwords have been leaked | Free | Everyone ⭐ |
 | [Mine](https://saymine.com/) | A website that scours the web for all services that have your data and allows you to request its deletion with one click | Free | Everyone ⭐ |
 | [Privacy Tools](https://www.privacytools.io/) | Website containing tips, services, and product recommendations for privacy-centric users | Free | Everyone ⭐ |
-
+| [r/privacy](https://www.reddit.com/r/privacy/wiki/) | Subreddit for all things privacy & comprehensive wiki | Free | Everyone ⭐ |
 
 ### ⚠️ Extreme (For Experienced Users Only) ⚠️
 
