@@ -2,6 +2,14 @@
 
 A comprehensive list of utilities and best-practices for anyone to improve their privacy and security online.
 
+Hopefully becoming a webpage soon.
+
+## Index
+
+ 1. [First Things First](#first-things-first)
+ 2. [Simple Tips for Enhanced Privacy](#simple-tips-for-enhanced-privacy)
+ 3. [Recommended Utilities](#recommended-utilities)
+
 
 ## First Things First
 
@@ -12,7 +20,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 
  2. Sign Up to [Mine](https://saymine.com/) to see who owns your data and request its deletion with one click.
  
-## [Simple Tips for Enhanced Privacy](#tips)
+## Simple Tips for Enhanced Privacy
 
   * **Use a privacy-focused browser:** Most browsers these days are feature-rich and provide a good user experience. Why not pick one that values your privacy then?
 
