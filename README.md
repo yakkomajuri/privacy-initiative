@@ -46,7 +46,7 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| [DuckDuckGo](https://duckduckgo.com/) | Top privacy-focused search engine in the market | Free | Everyone ⭐ |
+| [DuckDuckGo](https://duckduckgo.com/) | Top privacy-focused search engine in the market with good additional features | Free | Everyone ⭐ |
 | [Qwant](https://www.qwant.com/) | Privacy-focused search engine with Google-like UI | Free | Most Users |
 
 ### Password Managers
