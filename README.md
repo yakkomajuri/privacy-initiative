@@ -78,7 +78,7 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | [Jitsi Meet](https://meet.jit.si/) | Private, No-Installation, Intuitive Video Conferencing | Free | Most Users |
 
 
-### Extreme (For Experienced Users Only)
+### ⚠️ Extreme (For Experienced Users Only) ⚠️
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
