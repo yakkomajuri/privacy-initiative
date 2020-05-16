@@ -134,6 +134,8 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | [Have I Been Pwned](https://haveibeenpwned.com/) | Website and API to check if your data and passwords have been leaked | Free | Everyone ⭐ |
 | [Mine](https://saymine.com/) | A website that scours the web for all services that have your data and allows you to request its deletion with one click | Free | Everyone ⭐ |
+| [Privacy Tools](https://www.privacytools.io/) | Website containing tips, services, and product recommendations for privacy-centric users | Free | Everyone ⭐ |
+
 
 ### ⚠️ Extreme (For Experienced Users Only) ⚠️
 
