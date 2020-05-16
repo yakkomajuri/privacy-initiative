@@ -52,6 +52,12 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | [Bitwarden](https://bitwarden.com/) | Open-source password manager with storage solutions | Free with Premium Options | Most Users |
 | [KeePassXC](https://keepassxc.org/download/) | Self-hosted, open-source password manager | Free | DIY-type Users |
 
+### Email
+
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
+| [ProtonMail](https://protonmail.com/) | Go-to option for privacy email services | Free with Premium Options | Most Users |
+
 ### Productivity
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
@@ -64,3 +70,11 @@ A comprehensive list of utilities and best-practices for anyone to improve their
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | [Jitsi Meet](https://meet.jit.si/) | Private, No-Installation, Intuitive Video Conferencing | Free | Most Users |
+
+
+### Extreme (For Experienced Users Only)
+
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
+| [Tor](https://www.torproject.org/) | The Holy Grail of Private Browsers - Default Onion Routing | Free | Experienced Users |
+| [Tails OS](https://tails.boum.org/) | Top choice for anonymous & private operating systems | Free | Experienced Users |
