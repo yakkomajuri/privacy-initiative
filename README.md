@@ -138,7 +138,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
-| [Jitsi Meet](https://meet.jit.si/) | End-to-End Encrypted, Feature-Rich, No-Installation, Intuitive Video Conferencing | Free | Most Users |
+| [Jitsi Meet](https://meet.jit.si/) | End-to-End Encrypted, Feature-Rich, No-Installation Video Conferencing | Free | Most Users |
 
 ### Cloud Storage
 
