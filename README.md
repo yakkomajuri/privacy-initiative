@@ -85,6 +85,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [AdBlock Plus](https://adblockplus.org/) | Most well-known ad-blocker in the market | Donation-based | Most Users |
 | [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) | Upgrades your connection to websites to an encrypted one if possible | Free | Everyone ⭐ |
 | [Clean URLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) | Removes unnecessary data from URLs that can be used to track you, without harming the user experience | Free | Everyone ⭐ |
+| [Ghostery](https://www.ghostery.com/products/) | Blocks trackers and ads, improves browser speed | Free | Everyone ⭐ |
 
 
 ### Messaging
