@@ -17,6 +17,7 @@ Hopefully becoming a webpage soon.
   * [Password Managers](#password-managers)
   * [Email](#email)
   * [Productivity](#productivity)
+  * [YouTube Alternatives](#youtube-alternatives)
   * [Video Conferencing](#video-conferencing)
   * [Cloud Storage](#cloud-storage)
   * [Miscellaneous Tools](#miscellaneous-tools)
@@ -134,6 +135,13 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
 | [Notable](https://notable.md/) | Flexible, Markdown-based local note-taking | Free | Users familiar with Markdown |
 | [Libre Office](https://www.libreoffice.org/) | Free & Open-Source Office Suite (Spreadsheets, Text Editor, etc.) | Free | Microsoft & Google-Averse Users |
+| [Keybase](https://keybase.io/) | One Stop Shop for secure messaging, file storage, crypto wallet & git repo hosting | Free | Most Users |
+
+### YouTube Alternatives
+
+| Name                               |  Main Selling Points                                | Pricing       | Recommended For |
+| :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
+| [Invidious](invidio.us/) | Platform for watching any youtube video without having to login or access YouTube, preventing tracking | Free | Everyone ⭐ |
 
 ### Video Conferencing
 
