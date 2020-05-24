@@ -2,7 +2,7 @@
 
 A comprehensive list of utilities and best-practices for anyone to improve their privacy and security online.
 
-Hopefully becoming a webpage soon.
+Hopefully becoming a webpage soon. Feel free to contribute via PR if you have anything to add.
 
 ## Index
 
