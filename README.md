@@ -20,7 +20,7 @@ Hopefully becoming a webpage soon. Feel free to contribute via PR if you have an
   * [YouTube Alternatives](#youtube-alternatives)
   * [Video Conferencing](#video-conferencing)
   * [Cloud Storage](#cloud-storage)
-  * [Miscellaneous Tools](#miscellaneous-tools)
+  * [Miscellaneous Tools](#miscellaneous)
   * [Extreme](#%EF%B8%8F-extreme-for-experienced-users-only-%EF%B8%8F)
 
 
@@ -58,6 +58,8 @@ Here are a few things you can do right now to check how bad (or good) your priva
   * **Prioritize Open Source Software:** Open Source means that the code for the software is open and available for all to see and test. This means it is **more likely** (not certain) to be well-tested for vulnerabilities and privacy issues.
   
   * **Avoid doing anything important on public Wi-Fi networks:** Public networks make you subject to attacks. Avoid accessing your bank account on them, for example.
+
+  * **Enable 'Do Not Track' headers on your browser** Search your browser's settings for 'Do Not Track' or 'DNT' header preferences. Enabling this makes your browser indicate to websites that you do not wish to be tracked. It doesn't ensure you will not be tracked, far from it, but it could help if the website respects the header.
   
   * **Start slow:** Trying to switch your whole lifestyle to enhance privacy doesn't happen overnight. Small steps are the way to go.
 
@@ -156,7 +158,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [Tresorit](https://tresorit.com/) | Well-established, intuitive, end-to-end encrypted cloud storage | Limited Free Option (10-30$ p/mo) | Most Users (In need of Cloud Storage) |
 | [Nextcloud](https://nextcloud.com/) | Self-hosted, Open-Source cloud storage solution | Hosting costs up to you | Experienced Users |
 
-### Miscellaneous Tools
+### Miscellaneous
 
 | Name                               |  Main Selling Points                                | Pricing       | Recommended For |
 | :---------------------------------:|:--------------------------------------------------: | :------------:|:---------------:|
@@ -164,6 +166,11 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [Mine](https://saymine.com/) | A website that scours the web for all services that have your data and allows you to request its deletion with one click | Free | Everyone ⭐ |
 | [Privacy Tools](https://www.privacytools.io/) | Website containing tips, services, and product recommendations for privacy-centric users | Free | Everyone ⭐ |
 | [r/privacy](https://www.reddit.com/r/privacy/wiki/) | Subreddit for all things privacy & comprehensive wiki | Free | Everyone ⭐ |
+| [Stand Out of Our Light](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D) | Book about 'Freedom and Resistance in the Attention Economy' | Free | Everyone ⭐ |
+| [Watch Your Hack](https://watchyourhack.com/) | Website with comprehensive explanations and suggestions of services for enhancing privacy and security | Free | Everyone ⭐ |
+
+
+
 
 ### ⚠️ Extreme (For Experienced Users Only) ⚠️
 
