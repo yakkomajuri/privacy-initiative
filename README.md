@@ -53,11 +53,11 @@ Here are a few things you can do right now to check how bad (or good) your priva
 
   * **Do not send private pictures over the internet:** Better if you don't take them at all. But hey, if you gotta take 'em, and you gotta send 'em, at least omit your face.
 
-  * **Stay as far away from Big Tech as possible:** If you truly care about your privacy, you should avoid Google, Facebook, and gang as much as possible. They have horrible track records when it comes to your data privacy. This is quite hard, I know. After all, I'm writing this on a Microsoft service. 
+  * **Stay as far away from Big Tech as possible:** If you truly care about your privacy, you should avoid Google, Facebook, and gang as much as possible. They have horrible track records when it comes to data privacy. This is quite hard, I know. After all, I'm writing this on a Microsoft service. 
   
   * **Prioritize Open Source Software:** Open Source means that the code for the software is open and available for all to see and test. This means it is **more likely** (not certain) to be well-tested for vulnerabilities and privacy issues.
   
-  * **Avoid doing anything important on public networks:** Public networks make you subject to attacks. Avoid accessing your bank account on them, for example.
+  * **Avoid doing anything important on public Wi-Fi networks:** Public networks make you subject to attacks. Avoid accessing your bank account on them, for example.
   
   * **Start slow:** Trying to switch your whole lifestyle to enhance privacy doesn't happen overnight. Small steps are the way to go.
 
