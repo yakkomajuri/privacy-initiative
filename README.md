@@ -168,9 +168,7 @@ Here are a few things you can do right now to check how bad (or good) your priva
 | [r/privacy](https://www.reddit.com/r/privacy/wiki/) | Subreddit for all things privacy & comprehensive wiki | Free | Everyone ⭐ |
 | [Stand Out of Our Light](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D) | Book about 'Freedom and Resistance in the Attention Economy' | Free | Everyone ⭐ |
 | [Watch Your Hack](https://watchyourhack.com/) | Website with comprehensive explanations and suggestions of services for enhancing privacy and security | Free | Everyone ⭐ |
-
-
-
+| [*privacy not included](https://foundation.mozilla.org/en/privacynotincluded/) | Guide to help you shop for safe, secure connected products by Mozilla Foundation | Free | Everyone ⭐ |
 
 ### ⚠️ Extreme (For Experienced Users Only) ⚠️
 
