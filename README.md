@@ -1,4 +1,7 @@
 # The Privacy Initiative
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A comprehensive list of utilities and best-practices for anyone to improve their privacy and security online.
 
@@ -191,3 +194,18 @@ Here are a few things you can do right now to check how bad (or good) your priva
 
 
 
+
+## Contributors 🦸
+
+[//]: contributor-faces
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+ <a href="https://posthog.com"><img src="https://avatars.githubusercontent.com/u/69588470?v=4" width="50" height="50" alt=""/></a>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
