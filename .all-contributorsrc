@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "posthog-bot",
+      "name": "PostHog bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69588470?v=4",
+      "profile": "https://posthog.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "privacy-initiative",
+  "projectOwner": "yakkomajuri",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
