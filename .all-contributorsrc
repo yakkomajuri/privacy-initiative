@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "yakkomajuri",
+      "name": "Yakko Majuri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38760734?v=4",
+      "profile": "https://github.com/yakkomajuri",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "privacy-initiative",
+  "projectOwner": "yakkomajuri",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
